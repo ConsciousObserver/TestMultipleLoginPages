@@ -1,0 +1,1 @@
+A sample project with multiple login page in using Spring Security.
